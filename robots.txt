@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://najahsikee.joshuabloom.me/sitemap.xml
